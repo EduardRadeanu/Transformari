@@ -1,0 +1,11 @@
+E:\projects visual studio\ComplexExplorer\bin\Debug\ComplexExplorer.exe.config
+E:\projects visual studio\ComplexExplorer\bin\Debug\ComplexExplorer.exe
+E:\projects visual studio\ComplexExplorer\bin\Debug\ComplexExplorer.pdb
+E:\projects visual studio\ComplexExplorer\obj\Debug\ComplexExplorer.csproj.AssemblyReference.cache
+E:\projects visual studio\ComplexExplorer\obj\Debug\ComplexExplorer.csproj.SuggestedBindingRedirects.cache
+E:\projects visual studio\ComplexExplorer\obj\Debug\ComplexExplorer.ComplexForm.resources
+E:\projects visual studio\ComplexExplorer\obj\Debug\ComplexExplorer.Properties.Resources.resources
+E:\projects visual studio\ComplexExplorer\obj\Debug\ComplexExplorer.csproj.GenerateResource.cache
+E:\projects visual studio\ComplexExplorer\obj\Debug\ComplexExplorer.csproj.CoreCompileInputs.cache
+E:\projects visual studio\ComplexExplorer\obj\Debug\ComplexExplorer.exe
+E:\projects visual studio\ComplexExplorer\obj\Debug\ComplexExplorer.pdb
